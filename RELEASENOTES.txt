@@ -1,0 +1,6 @@
+Release Notes
+-Game now runs at a greater resolution than 258 * 144
+-Nerfed Greninja, just in time for Release
+-Completely changed Olmec (Again)
+-Removed that one bug with the spinning
+-Removed Herobrine
